@@ -4,12 +4,6 @@
 <a href="#"><img title="VPS/RDP GRÁTIS" src="https://img.shields.io/badge/VPS/RDP GRÁTIS-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-#### Tutorial PT/BR
-1. Obrigatório criar a conta em: `https://dashboard.ngrok.com/signup`
-2. Ir nas "Settings" depois em "Secrets" e criar um repositorio secreto com o nome `NGROK_AUTH_TOKEN`
-3. Coloque o token de: `https://dashboard.ngrok.com/get-started/your-authtoken` no repositorio secreto
-4. Vai em "Actions" e procure "BiiuhRDP".
-
 #### Tutorial EN
 1. Account must be created at: `https://dashboard.ngrok.com/signup`
 2. Go to "Settings" then "Secrets" and create a secret repository named `NGROK_AUTH_TOKEN`
